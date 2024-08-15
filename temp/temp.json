@@ -1,1 +1,7 @@
-"{\r\n    \"name\": \"Clothes\",\r\n    \"description\": \"Wearable\",\r\n    \"category\": \"human\",\r\n    \"price\": 9.99,\r\n    \"tax\": 0.99\r\n}"
+{
+    "name": "Clothes",
+    "description": "Wearable",
+    "category": "human",
+    "price": 9.99,
+    "tax": 0.99
+}

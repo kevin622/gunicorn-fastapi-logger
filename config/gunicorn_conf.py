@@ -26,10 +26,10 @@ workers = 4
 # workers = multiprocessing.cpu_count() * 2 + 1  # Or any other number of workers you prefer
 worker_class = "uvicorn.workers.UvicornWorker"
 max_requests = 100
-max_requests_jitter = 10
+max_requests_jitter = 20
 accesslog = os.path.join(LOG_FOLDER, "gunicorn_access.log")
 errorlog = os.path.join(LOG_FOLDER, "gunicorn_error.log")
-timeout = 100000
+timeout = 30
 pidfile = "gunicorn.pid"
 daemon = True
 
