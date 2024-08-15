@@ -1,0 +1,6 @@
+-rw-r--r--  1 user  staff   372B  8 15 17:51 app.log
+-rw-r--r--  1 user  staff   248B  8 15 17:51 app.log.1
+-rw-r--r--  1 user  staff   992B  8 15 17:51 app.log.2
+-rw-r--r--  1 user  staff   992B  8 15 17:51 app.log.3
+-rw-r--r--  1 user  staff   620B  8 15 17:51 app.log.4
+-rw-r--r--  1 user  staff   992B  8 15 17:51 app.log.5
